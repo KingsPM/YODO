@@ -1,0 +1,6 @@
+ToDo
+====
+
+- Authentication (basic if over HTTPS)
+- File expiry
+- Limit use to certain IP ranges
